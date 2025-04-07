@@ -29,6 +29,8 @@ Herramienta avanzada de auditoría de seguridad para APIs GraphQL. Descubre endp
   - Soporte para Telegram
   - Alertas inmediatas de hallazgos críticos
 
+[![P4ImGraphQL Demo](https://img.youtube.com/vi/1ya8dvqtd-o/0.jpg)](https://youtu.be/1ya8dvqtd-o?si=-oUfqdy7U6cgwb4N)
+
 ## 📦 Instalación
 
 ```bash
